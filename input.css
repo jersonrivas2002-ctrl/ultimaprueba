@@ -5,10 +5,11 @@ body {
   background-image:
     radial-gradient(circle at 20% 15%, rgba(255, 200, 220, 0.35), transparent 25%),
     radial-gradient(circle at 80% 18%, rgba(255, 230, 190, 0.30), transparent 25%),
+    url("C:/Users/ASUS/OneDrive/Escritorio/ultimaprueba/WhatsApp Image 2026-04-22 at 21.00.50.jpeg"),
     url("C:/Users/ASUS/OneDrive/Escritorio/ultimaprueba/2828.png");
-  background-repeat: no-repeat, no-repeat, repeat;
-  background-position: 20% 15%, 80% 18%, center center;
-  background-size: 180px 180px, 150px 150px, 140px 140px;
+  background-repeat: no-repeat, no-repeat, no-repeat, repeat;
+  background-position: 20% 15%, 80% 18%, top right, center center;
+  background-size: 180px 180px, 150px 150px, 180px 180px, 140px 140px;
   color: #5b3a29;
   font-family: 'Comic Sans MS', cursive, sans-serif;
   display: flex;
